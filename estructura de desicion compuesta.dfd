@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+"digita la capacidad de estudiantes y la maxima del instituto"
+5
+1
+8
+val, cap
+7
+0
+1
+8
+val<=cap
+4
+1
+46
+"la capacidad de estudiantes no es suficiente"
+13
+4
+1
+46
+"la capacidad de estudiantes si es suficiente"
+13
+1
