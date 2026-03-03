@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+"digite los dos valores a sumar"
+5
+1
+10
+val1, val2
+7
+0
+1
+14
+(val1 mod 2)=0
+4
+1
+27
+"el primer valor no es par"
+13
+7
+0
+1
+6
+val1>0
+4
+1
+33
+"el primero valor no es positivo"
+13
+7
+0
+1
+14
+(val2 mod 2)=0
+4
+1
+28
+"el segundo valor no es par"
+13
+7
+0
+1
+6
+val2>0
+4
+1
+33
+"el segundo valor no es positivo"
+13
+4
+1
+44
+"la suma de los dos valores es: ", val1+val2
+13
+13
+13
+13
+1
